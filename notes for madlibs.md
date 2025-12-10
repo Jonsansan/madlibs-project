@@ -20,4 +20,11 @@ When the moon rose high, a (adjective) (wizard) appeared, offering a (adjective)
 
 By the first light of (season), (name) and the companions returned to the (adjective) (capital city), their hearts (verb ending in -ed) and their satchels filled with (plural noun). They pledged to embark on another (adjective) quest during the (ordinal number) (month), vowing that the legend of the (noun) would endure for (number) generations, inspiring (plural noun) across the (adjective) lands for (number) centuries to come.
 
-background: #F9DFDF
+background:
+
+    <div class="uiverse-pixel-radio-group">
+      <label class="uiverse-pixel-radio">
+        <input type="checkbox" name="pixel-choice" />
+        <span class="label-text">Submit</span>
+      </label>
+    </div>
